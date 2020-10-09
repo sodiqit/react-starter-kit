@@ -7,6 +7,7 @@
 4. ESLint for TS and React ([airbnb](https://www.npmjs.com/package/eslint-config-airbnb-typescript) config)
 5. Use git hooks(husky & lint-staged) - pre-push and pre-commit
 6. Prettier formatter
+7. File loading
 
 In future I add redux.
 
