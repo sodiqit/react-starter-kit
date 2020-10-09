@@ -1,13 +1,11 @@
 {
-  "name": "six-sities",
+  "name": "react-starter-kit",
   "version": "1.0.0",
-  "description": "",
-  "main": "public/src/index.js",
-  "types": "public/src/index.d.ts",
-  "homepage": "https://github.com/sodiqit/FSDSlider#readme",
+  "description": "Starter boilerplate for create SPA on React",
+  "homepage": "https://github.com/sodiqit/react-starter-kit#readme",
   "repository": {
     "type": "git",
-    "url": "git@github.com:sodiqit/six-sities.git"
+    "url": "git@github.com:sodiqit/react-starter-kit.git"
   },
   "author": "sodiqit",
   "license": "ISC",
@@ -69,7 +67,6 @@
     "node-sass": "^4.14.1",
     "postcss": "^8.1.1",
     "postcss-loader": "^4.0.4",
-    "postcss-preset-env": "^6.7.0",
     "prettier": "^2.1.2",
     "sass-loader": "^10.0.3",
     "source-map-loader": "^1.1.0",
