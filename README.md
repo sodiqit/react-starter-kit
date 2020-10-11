@@ -8,6 +8,7 @@
 5. Use git hooks(husky & lint-staged) - pre-push and pre-commit
 6. Prettier formatter
 7. File loading
+8. Jest support
 
 In future I add redux.
 
