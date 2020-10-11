@@ -22,7 +22,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "npm run lint && npm run lint:types",
+      "pre-push": "npm run lint && npm run lint:types --no-verify",
       "pre-commit": "lint-staged"
     }
   },
